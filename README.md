@@ -24,9 +24,9 @@ If useful, buy me a coffee?
 
 1.Clone the repo
 
-    $ git clone https://github.com/LeeChunHao2000/ftx-srm-auto-staker
+    $ git clone https://github.com/brendancme/ftx-srm-auto-staker
 
-2.Download the [exe file](https://github.com/LeeChunHao2000/ftx-srm-auto-staker/raw/master/SRM-Auto-Staker.exe)
+2.Download the [exe file](https://github.com/brendancme/ftx-srm-auto-staker/raw/master/SRM-Auto-Staker.exe)
 
 ## Quickstart
 
